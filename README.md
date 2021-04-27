@@ -20,3 +20,5 @@ The purpose of our analysis was to detemrine the credit risk of loans. We took i
 -For Easy Ensemble AdaBoost, the accuracy score is 93%, the precision is 99% and the recall is 94%
 ![image](https://user-images.githubusercontent.com/76402559/116306235-cf3e2980-a772-11eb-945f-ce9be5e89b90.png)
 
+## Summary
+The first few models in which we undersampled, oversampled and did combination of both, we wanted to determine which model best predicts the number of loans with the highest risk. Furthermore, in the next two models, we resampled the data using ensemble classifiers to try and predict loans with the highest and lowest risk. For the firstfour models, our accuracy score is not as high as the ensemble classifiers and the recall scores are also low. For a model that works best, we want to have a good balance of recall and precision and therefore we should use ensemble classifiers for our first four models. Moreover, we can also conclude that Easy Ensemble is the best model. We can say this since it has the highest accuracy score and good balance of precision and recall scores.
