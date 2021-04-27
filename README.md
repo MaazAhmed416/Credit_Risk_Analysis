@@ -14,3 +14,9 @@ The purpose of our analysis was to detemrine the credit risk of loans. We took i
 -For Combination(over and undersampling), the balanced accuracy score is 54%, the precision is at 99% and the recall is 57%
 ![image](https://user-images.githubusercontent.com/76402559/116305370-aff2cc80-a771-11eb-8e7c-1f94634bd025.png)
 
+-For Balanced Random Forest Classifier, the accuracy score is 79%, the precision is at 99% and the recall is 88%
+![image](https://user-images.githubusercontent.com/76402559/116305995-838b8000-a772-11eb-851f-7c2de8d7aace.png)
+
+-For Easy Ensemble AdaBoost, the accuracy score is 93%, the precision is 99% and the recall is 94%
+![image](https://user-images.githubusercontent.com/76402559/116306235-cf3e2980-a772-11eb-945f-ce9be5e89b90.png)
+
