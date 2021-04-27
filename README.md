@@ -8,3 +8,9 @@ The purpose of our analysis was to detemrine the credit risk of loans. We took i
 -For SMOTE oversampling, the accuracy score is 66% , the precision of high risk has a low positivity of 1% and the recall is 63% 
 ![image](https://user-images.githubusercontent.com/76402559/116304573-b2a0f200-a770-11eb-87fd-29920d5e0e6a.png)
 
+-For Undersampling, the accuracy score is 66%, the precision is at 99% and the recall is 40%
+![image](https://user-images.githubusercontent.com/76402559/116304897-0b708a80-a771-11eb-9970-24428b4c1d94.png)
+
+-For Combination(over and undersampling), the balanced accuracy score is 54%, the precision is at 99% and the recall is 57%
+![image](https://user-images.githubusercontent.com/76402559/116305370-aff2cc80-a771-11eb-8e7c-1f94634bd025.png)
+
